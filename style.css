@@ -1,0 +1,7 @@
+nav,h1{
+    display:flex;
+    justify-content: space-around;
+    background-color: dodgerblue;
+    margin:0; 
+    color: white;
+  }
